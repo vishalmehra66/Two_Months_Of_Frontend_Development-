@@ -1,0 +1,20 @@
+
+
+    *{
+        background-color: rgb(238, 232, 226);
+        /* margin-left: 100px; */
+    
+        
+    }
+
+    div{
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-top: 100px;
+        background-color: rgb(246, 255, 255);
+    }
+
+    section{
+        margin-top: 50px;
+        padding: 20px;
+    }
