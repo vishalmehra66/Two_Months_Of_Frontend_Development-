@@ -1,6 +1,6 @@
 
 ◼CSS Basics:-
-CSS (Cascading Style Sheets) is used to style and layout web pages. It controls the appearance of HTML elements, 
+  CSS (Cascading Style Sheets) is used to style and layout web pages. It controls the appearance of HTML elements, 
 enabling developers to create visually appealing and responsive designs.
 
 1. CSS Selectors:-
@@ -129,6 +129,7 @@ Color Values: Colors can be represented in various ways, such as hex codes, RGB,
 color: #ff5733;
 color: rgb(255, 87, 51);
 color: blue;
+
 Length Units:
 
 Absolute Units (e.g., px, cm, mm, in): Specific, fixed measurements. Commonly, px (pixels) is used.

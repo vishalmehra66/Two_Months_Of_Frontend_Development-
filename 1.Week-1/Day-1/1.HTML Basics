@@ -1,11 +1,10 @@
 
-◼HTML Basics:-
-
-HTML (Hypertext Markup Language) is the foundational language for creating web pages. It structures content on the web and helps browsers understand 
+◼HTML Basics
+  HTML (Hypertext Markup Language) is the foundational language for creating web pages. It structures content on the webpage and helps browsers understand 
 how to display different types of content like text, images, and links.
 
 1. Structure of an HTML Document:-
-An HTML document follows a specific structure, which provides a foundation for content and styling. 
+  An HTML document follows a specific structure, which provides a foundation for content and styling. 
 Here’s an outline of a basic HTML document:-
 
 <!DOCTYPE html>
@@ -22,45 +21,45 @@ Here’s an outline of a basic HTML document:-
 
 Explanation of Each Part:
 
-<!DOCTYPE html>: Declares the document type and version of HTML (HTML5 in this case).
+<!DOCTYPE html> : Declares the document type and version of HTML (HTML5 in this case).
 
-<html lang="en">: Root element of the document with a lang attribute defining the language.
+<html lang="en"> : Root element of the document with a lang attribute defining the language.
 
 <head>: Contains metadata about the page, such as its title and character set.
 
-<meta charset="UTF-8">: Sets the character encoding to UTF-8, which supports all characters.
+<meta charset="UTF-8"> : Sets the character encoding to UTF-8, which supports all characters.
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">: Sets the viewport for responsive design.
 
-<title>: Specifies the title displayed on the browser tab.
+<title> : Specifies the title displayed on the browser tab.
 
-<body>: Contains the main content of the page, which is visible to users.
+<body> : Contains the main content of the page, which is visible to users.
 
 2. HTML Tags:-
-HTML tags are elements enclosed within angle brackets (< >) and are used to structure and define different parts of the content. 
+  HTML tags are elements enclosed within angle brackets (< >) and are used to structure and define different parts of the content. 
 Tags typically come in pairs: an opening tag <tagname> and a closing tag </tagname>. Some tags are self-closing.
 
-Examples of Common Tags:
+Examples of Common Tags:-
 
 Headings: <h1>, <h2>, <h3>, <h4>, <h5>, <h6> (Levels of headings from most to least important)
 Paragraphs: <p> (Defines a paragraph)
 Images: <img src="image.jpg" alt="description"> (Displays an image with an alternative text)
 Links: <a href="url">link text</a> (Defines a hyperlink to another page)
 Lists:
-Unordered List: <ul> <li>Item</li> </ul>
-Ordered List: <ol> <li>Item</li> </ol>
+     Unordered List : <ul> <li>Item</li> </ul>
+     Ordered List : <ol> <li>Item</li> </ol>
 
 Tables: <table>, <tr>, <th>, <td> (For creating tabular data)
 
-Self-Closing Tags
-Some HTML tags are self-closing, meaning they don’t have an ending tag:
+Self-Closing Tags:-
+  Some HTML tags are self-closing, meaning they don’t have an ending tag:
 
 <img>: Image tag
 <br>: Line break
 <hr>: Horizontal line
 
 3. Semantics in HTML:-
-Semantic HTML means using tags that convey the meaning of the content. This helps both browsers and developers understand the purpose of each element. 
+  Semantic HTML means using tags that convey the meaning of the content. This helps both browsers and developers understand the purpose of each element. 
 Semantics make the content more accessible and improves SEO.
 
 Examples of Semantic Tags:
@@ -142,4 +141,3 @@ Here’s an example that brings all these concepts together:
 
 This example demonstrates a semantic HTML structure with a header, navigation, main content, sections, and a footer.
 
-This overview should give you a solid foundation in HTML and guide you in writing structured, semantic, and syntactically correct HTML code.
